@@ -2,7 +2,7 @@
 
 > **Objective**: A comprehensive, production-ready platform enabling artists to showcase their work and connect with a community. This repository houses both the robust **FastAPI Backend** and the modern **Next.js Frontend**.
 
-[![Project Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://artfolio-creative-showcase.vercel.app/)
+[![Project Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://artfolio.saidulalimallick.studio/)
 
 ## 🚀 Overview
 
